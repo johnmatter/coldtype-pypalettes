@@ -1,0 +1,12 @@
+{
+  "palette_idx": 836,
+  "seed": 42,
+  "rotate_amount": 0,
+  "max_colors": 16,
+  "color_indices": {
+    "bg": 0.06,
+    "bg2": 0.26,
+    "fg": 0.52,
+    "accent": 0.72
+  }
+}
